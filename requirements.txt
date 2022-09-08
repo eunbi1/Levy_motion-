@@ -1,0 +1,9 @@
+git+https://github.com/jk4011/torchquad.git@multiple_integrands
+Cython~=0.29.28
+torch~=1.12.1
+numpy~=1.21.5
+scipy~=1.7.3
+matplotlib~=3.5.1
+setuptools~=61.2.0
+tqdm~=4.64.0
+torchvision~=0.13.1
